@@ -1,0 +1,27 @@
+.content {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 100px;
+    box-sizing: border-box;
+    border: 20px solid blue;
+    background: lightblue;
+    margin: 100px;
+    margin-top: 100px;
+    /* margin-left: 500px; */
+    /* margin-right: 500px; */
+    border-radius: 25px;
+}
+
+
+.p {
+    font-family: sans-serif;
+}
+
+.h4 {
+    font-family: sans-serif;
+}
+
+.profile_image {
+    height: 100px;
+    
+}
